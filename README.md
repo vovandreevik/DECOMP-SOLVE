@@ -10,4 +10,4 @@ Compares the conditioning numbers and δ.
 
 $δ = \displaystyle\frac{||x_1 - x_2||}{||x_1||}$
 
-Forsythe.h is a librarian program
+```Forsythe.h``` is a librarian program
